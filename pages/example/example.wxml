@@ -1,0 +1,2 @@
+<!--pages/example/example.wxml-->
+<button bindtap='iconTap'>icon</button>
