@@ -1,1 +1,1 @@
-# WxApplets
+# WxApplets 微信小程序
