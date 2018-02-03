@@ -1,4 +1,4 @@
-// pages/example/example.js
+// pages/text/text.js
 Page({
 
   /**
@@ -62,16 +62,5 @@ Page({
    */
   onShareAppMessage: function () {
   
-  },
-
-  iconTap: function(e) {
-    wx.navigateTo({
-      url: '../icon/icon',
-    })
-  },
-  textTap: function (e) {
-    wx.navigateTo({
-      url: '../text/text',
-    })
   }
 })

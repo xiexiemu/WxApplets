@@ -1,0 +1,12 @@
+<!--pages/text/text.wxml-->
+<view>
+  <text>this base text</text>
+</view>
+
+<view>
+  <text selectable='true'>可选文本</text>
+</view>
+
+<view>
+  <text space='emsp'>可选文本</text>
+</view>
